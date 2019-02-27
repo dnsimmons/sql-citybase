@@ -1,6 +1,6 @@
 # sql-citybase
 
-SQL dumps for all US states and cities with county and long / lat coordinates.
+SQL dumps for all US states and cities (around 30,000 in total) with county and long / lat coordinates.
 
 ### Table Schemas
 
